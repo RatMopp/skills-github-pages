@@ -1,4 +1,9 @@
----
-title: Welcome to my blog
+
+Ramblings: - Wowzers! My first page! -
 ---
 
+* look 
+* at
+  * this
+  * cool
+* list
